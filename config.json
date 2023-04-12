@@ -1,0 +1,35 @@
+﻿{
+  "fTypes": [
+    {
+      "strFile": ".\\unity.exe",
+      "decodeTypes": [
+        "fbx",
+        "cs"
+      ]
+    },
+    {
+      "strFile": ".\\wpp.exe",
+      "decodeTypes": [
+        "png",
+        "jpg",
+        "bmp",
+        "doc",
+        "docx",
+        "xls",
+        "xlsx",
+        "csv",
+        "ppt",
+        "pptx",
+        "txt"
+      ]
+    },
+    {
+      "strFile": ".\\devenv.exe",
+      "decodeTypes": [
+        "c",
+        "cpp",
+        "h"
+      ]
+    }
+  ]
+}
